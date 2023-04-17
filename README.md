@@ -1,5 +1,9 @@
 # Indora
 Movie Recommendation System
+![image](https://user-images.githubusercontent.com/96198653/232493061-da38a030-0bc2-4499-8e48-9a44c2c9efc7.png)
+![image](https://user-images.githubusercontent.com/96198653/232493451-4e9fdd0f-048b-4896-9353-b16c0251e833.png)
+
+
 
 •	Reccomends you movie with reference to any given movie, like movie of same genre and ratings.
 •	Rating System: The system should allow users to rate movies they have watched to provide feedback and improve future recommendations.
